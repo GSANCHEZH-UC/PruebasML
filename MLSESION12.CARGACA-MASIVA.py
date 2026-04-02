@@ -61,4 +61,3 @@ input("\nPresiona Enter para guardar los resultados en CASOS-MASIVO-PREDICCIONES
 estudiantes.to_csv('CASOS-MASIVO-PREDICCIONES.csv', index=False, sep=";")
 print("\n✓ Predicciones guardadas exitosamente en CASOS-MASIVO-PREDICCIONES.csv")
 input("Presiona Enter para finalizar el proceso...")
-
