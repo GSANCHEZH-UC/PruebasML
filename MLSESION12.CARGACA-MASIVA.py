@@ -62,4 +62,3 @@ estudiantes.to_csv('CASOS-MASIVO-PREDICCIONES.csv', index=False, sep=";")
 print("\n✓ Predicciones guardadas exitosamente en CASOS-MASIVO-PREDICCIONES.csv")
 input("Presiona Enter para finalizar el proceso...")
 
-## Cambios Hechos por GSANCHEZH-UC
